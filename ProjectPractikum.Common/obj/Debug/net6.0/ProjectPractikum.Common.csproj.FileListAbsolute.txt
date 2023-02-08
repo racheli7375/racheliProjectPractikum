@@ -1,0 +1,60 @@
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Common.deps.json
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Common.dll
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Common.pdb
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.csproj.AssemblyReference.cache
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.AssemblyInfoInputs.cache
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.AssemblyInfo.cs
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.csproj.CoreCompileInputs.cache
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.dll
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\refint\ProjectPractikum.Common.dll
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.pdb
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ref\ProjectPractikum.Common.dll
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Repositories.dll
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Repositories.pdb
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.csproj.CopyComplete
+C:\Users\user1\Desktop\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Common.deps.json
+C:\Users\user1\Desktop\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Common.dll
+C:\Users\user1\Desktop\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Common.pdb
+C:\Users\user1\Desktop\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Repositories.dll
+C:\Users\user1\Desktop\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Repositories.pdb
+C:\Users\user1\Desktop\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.AssemblyInfo.cs
+C:\Users\user1\Desktop\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.csproj.CopyComplete
+C:\Users\user1\Desktop\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.dll
+C:\Users\user1\Desktop\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\refint\ProjectPractikum.Common.dll
+C:\Users\user1\Desktop\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.pdb
+C:\Users\user1\Desktop\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ref\ProjectPractikum.Common.dll
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Common.deps.json
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Common.dll
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Common.pdb
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Repositories.dll
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Repositories.pdb
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.csproj.AssemblyReference.cache
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.AssemblyInfoInputs.cache
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.AssemblyInfo.cs
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.csproj.CoreCompileInputs.cache
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.csproj.CopyComplete
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.dll
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\refint\ProjectPractikum.Common.dll
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.pdb
+Y:\Groups\3\בן שלמה רחל\פרקטיקום\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ref\ProjectPractikum.Common.dll
+Y:\Groups\3\בן שלמה רחל\‏‏תיקיה חדשה (2)\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Common.deps.json
+Y:\Groups\3\בן שלמה רחל\‏‏תיקיה חדשה (2)\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Common.dll
+Y:\Groups\3\בן שלמה רחל\‏‏תיקיה חדשה (2)\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Common.pdb
+Y:\Groups\3\בן שלמה רחל\‏‏תיקיה חדשה (2)\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Repositories.dll
+Y:\Groups\3\בן שלמה רחל\‏‏תיקיה חדשה (2)\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\bin\Debug\net6.0\ProjectPractikum.Repositories.pdb
+Y:\Groups\3\בן שלמה רחל\‏‏תיקיה חדשה (2)\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.csproj.AssemblyReference.cache
+Y:\Groups\3\בן שלמה רחל\‏‏תיקיה חדשה (2)\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\3\בן שלמה רחל\‏‏תיקיה חדשה (2)\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.AssemblyInfoInputs.cache
+Y:\Groups\3\בן שלמה רחל\‏‏תיקיה חדשה (2)\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.AssemblyInfo.cs
+Y:\Groups\3\בן שלמה רחל\‏‏תיקיה חדשה (2)\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.csproj.CoreCompileInputs.cache
+Y:\Groups\3\בן שלמה רחל\‏‏תיקיה חדשה (2)\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.csproj.CopyComplete
+Y:\Groups\3\בן שלמה רחל\‏‏תיקיה חדשה (2)\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.dll
+Y:\Groups\3\בן שלמה רחל\‏‏תיקיה חדשה (2)\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\refint\ProjectPractikum.Common.dll
+Y:\Groups\3\בן שלמה רחל\‏‏תיקיה חדשה (2)\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ProjectPractikum.Common.pdb
+Y:\Groups\3\בן שלמה רחל\‏‏תיקיה חדשה (2)\דוטנט סופייייי\ProjectPractikum\ProjectPractikum.Common\obj\Debug\net6.0\ref\ProjectPractikum.Common.dll

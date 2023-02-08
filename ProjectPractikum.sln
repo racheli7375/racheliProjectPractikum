@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectPractikum", "ProjectPractikum\ProjectPractikum.csproj", "{DFBED63E-D0D0-4F00-B606-AFBD6687241F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectPractikum.Repositories", "ProjectPractikum.Repositories\ProjectPractikum.Repositories.csproj", "{C77C1A63-8A6E-4511-9BCF-8D5282FE56F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectPractikum.Services", "ProjectPractikum.Services\ProjectPractikum.Services.csproj", "{EFBA051F-11EE-40AB-8422-EF255FFEDA33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectPractikum.Common", "ProjectPractikum.Common\ProjectPractikum.Common.csproj", "{946622A7-03FB-4E22-904B-7538A46883EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectPractikum.API", "ProjectPractikum.API\ProjectPractikum.API.csproj", "{55623636-3EC2-4241-8255-398B867EF94F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectPractikum.Context", "ProjectPractikum.Context\ProjectPractikum.Context.csproj", "{44D137A2-41CE-4738-9392-3FDCCBCE8A22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFBED63E-D0D0-4F00-B606-AFBD6687241F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBED63E-D0D0-4F00-B606-AFBD6687241F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBED63E-D0D0-4F00-B606-AFBD6687241F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBED63E-D0D0-4F00-B606-AFBD6687241F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C77C1A63-8A6E-4511-9BCF-8D5282FE56F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77C1A63-8A6E-4511-9BCF-8D5282FE56F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77C1A63-8A6E-4511-9BCF-8D5282FE56F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77C1A63-8A6E-4511-9BCF-8D5282FE56F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFBA051F-11EE-40AB-8422-EF255FFEDA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFBA051F-11EE-40AB-8422-EF255FFEDA33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFBA051F-11EE-40AB-8422-EF255FFEDA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFBA051F-11EE-40AB-8422-EF255FFEDA33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{946622A7-03FB-4E22-904B-7538A46883EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946622A7-03FB-4E22-904B-7538A46883EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946622A7-03FB-4E22-904B-7538A46883EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946622A7-03FB-4E22-904B-7538A46883EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55623636-3EC2-4241-8255-398B867EF94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55623636-3EC2-4241-8255-398B867EF94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55623636-3EC2-4241-8255-398B867EF94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55623636-3EC2-4241-8255-398B867EF94F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44D137A2-41CE-4738-9392-3FDCCBCE8A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D137A2-41CE-4738-9392-3FDCCBCE8A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D137A2-41CE-4738-9392-3FDCCBCE8A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D137A2-41CE-4738-9392-3FDCCBCE8A22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB02AFC2-EF0D-4CB9-A297-F8E1A5B2437C}
+	EndGlobalSection
+EndGlobal
